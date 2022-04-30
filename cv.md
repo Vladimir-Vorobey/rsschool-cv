@@ -1,13 +1,13 @@
 ## Vorobey Vladimir
-######[My profile on github](https://github.com/Vladimir-Vorobey)
+###### [My profile on github](https://github.com/Vladimir-Vorobey)
 ---
-#####*Junior Frontend Developer*
+##### *Junior Frontend Developer*
 ---
 #### Contact information
-**Phone:** +375291655729
-**Email:** Vorobey.vs@gmail.com
-**Telegram:** @Vorobeyv
-[Linkedin](https://www.linkedin.com/in/vladimir-vorobey-99695015b/)
+* **Phone:** +375291655729
+* **Email:** Vorobey.vs@gmail.com
+* **Telegram:** @Vorobeyv
+* [Linkedin](https://www.linkedin.com/in/vladimir-vorobey-99695015b/)
 ---
 #### Briefly About Myself 
 Having received a higher education as a teacher of mathematics and computer science, I devoted time to creative realization. After 10 years of creative life, my craving for mathematics and my interest in IT technologies helped me immerse myself in the world of Frontend development.
